@@ -7,12 +7,7 @@ It contains code from **C** to **HTML**, organize by code language for easy navi
 
 ## Content
 Currently, the following languages have examples of codes stored:
-- C
 - Java
-- Javascript
-- HTML
-- PHP
-- SQL
 - VBScript
 
 ## Next Step
